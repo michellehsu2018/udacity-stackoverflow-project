@@ -4,7 +4,8 @@
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
 4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+5. [Medium Post](#medium)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
@@ -40,6 +41,10 @@ The results to answer the 3 questions are listed below:
   1. Based on the survey data, the trend of non-CS background people becoming developers is not increasing in the last 3 years.
   2. According to the result from the statistical analysis, gender does have influence on whether a developer wants to become a manager in the future.
   3. `Employed full-time` is the most important factors in terms of predicting the work hours by week for developers.
+
+## Medium Post<a name="medium"></a>
+
+  - Here's the link to my Medium post about the project and the findings - https://medium.com/@hsiaopenghsu/peek-in-the-life-of-developers-with-data-analysis-b67240657d30
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
