@@ -23,10 +23,10 @@ If you install Python and Jupyter Notebook through Anaconda distribution, you sh
 
 ## Project Motivation<a name="motivation"></a>
 
-This project is part of the requirements for Udacity Data Scientist Nanodegree. In this project, I want to use the survey data from Stack Overflow[here](https://insights.stackoverflow.com/survey) to answer the following questions:
+This project is part of the requirements for Udacity Data Scientist Nanodegree. In this project, I want to use the survey data from Stack Overflow [here](https://insights.stackoverflow.com/survey) to answer the following questions:
 
   1. Do more and more people from non computer science background become developers?
-  2. Does gender affect whether a developer wants to bhttps://www.kaggle.com/stackoverflow/ecome manager in the future?
+  2. Does gender affect whether a developer wants to become a manager in the future?
   3. What factors affect the work hours per week for developers
 
 ## File Descriptions <a name="files"></a>
